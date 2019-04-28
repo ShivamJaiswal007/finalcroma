@@ -102,7 +102,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 <div class="banner-top">
 	<div class="container">
 		<h3 >Profile</h3>
-		<h4>Home</a><label>/</label>Profile</h4>
+		<h4><a href="dashboardre.jsp">Home</a><label>/</label>Profile</h4>
 		<div class="clearfix"> </div>
 	</div>
 </div>
