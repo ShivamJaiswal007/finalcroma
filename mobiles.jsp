@@ -251,11 +251,11 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-           <a href="mobiles.html"><img class="first-slide" src="images/10.jpg" alt="First slide"></a>
+           <a href="mobiles.html"><img class="first-slide" src="images/12.jpg" alt="First slide"></a>
        
         </div>
         <div class="item">
-          <a href="television.html"> <img class="second-slide " src="images/29.jpg" alt="Second slide"></a>
+          <a href="television.html"> <img class="second-slide " src="images/13.jpg" alt="Second slide"></a>
          
         </div>
         <div class="item">
